@@ -1,0 +1,11 @@
+This module is all about the penetration testing process and breaks it down into multiple stages, each of which will be covered in depth. things covered include:
+- The Penetration testing process
+- Pre-Engagement
+- Information Gathering
+- Vulnerability Assessment
+- Exploitation
+- Post-Exploitation
+- Lateral Movement
+- Proof-of-Concept
+- Post-Engagement
+- Practice
