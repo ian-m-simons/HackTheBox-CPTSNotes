@@ -1,3 +1,0 @@
-it is important to track progress to get the confirmation that we are in fact achieving our goals. In many ways only you can truly track your progress, others generally won't have the full picture and so cannot give a good analysis. a good way to track progress is to make the following two lists
-- **List No. 1** write down the date and everything you know about a desired topic with all skills and an estimated score of 1-10 try to be as detailed as possible. the more detailed the better the difference will be for you to see later. then save this list for later
-- **List No. 2** continuously create this list. As soon as you have learned something new for you, add it to the list, try to learn everyday even if only for 10-15 minutes. 
