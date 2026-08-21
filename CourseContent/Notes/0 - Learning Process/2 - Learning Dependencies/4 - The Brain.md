@@ -1,0 +1,3 @@
+There was a lot of of lecturing about brain myths here and trying to define thought in a way that would fit our needs. Ultimately though we need to break this down into something a little more useful. Generally speaking we have two kinds of thoughts, conscious and subconscious thoughts. 
+Conscious thoughts are thoughts that we are aware of and can choose to take action on. 
+Subconscious thoughts are thoughts that we do not perceive but feel emotionally. 
