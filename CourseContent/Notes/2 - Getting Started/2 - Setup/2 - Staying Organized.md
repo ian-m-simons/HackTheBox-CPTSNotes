@@ -41,6 +41,7 @@ Some popular options include
 - GitBook
 - Sublime Text 
 - Notepad++
+
 We will use the tool blessed by God himself Obsidian.
 >pro tip from both Hack the Box and John Hammond, learn to use markdown to take notes
 ### Other Tools and Tips
