@@ -2,7 +2,6 @@
 
 | Box Name                              | Purpose                      |
 | ------------------------------------- | ---------------------------- |
-| [[Granny - Write up\|Granny]]/Grandpa | Build Metasploit familiarity |
 | Jerry                                 | Build Metasploit familiarity |
 | Blue                                  | Build Metasploit familiarity |
 | Lame                                  | Build Metasploit familiarity |
@@ -11,6 +10,6 @@
 | Devel                                 | Build Metasploit familiarity |
 ### Completed
 
-| Box Name | Write up | Report |
-| -------- | -------- | ------ |
-|          |          |        |
+| Box Name | Write up  | Report        |
+| -------- | --------- | ------------- |
+| Granny   | Completed | not Completed |

@@ -6,7 +6,6 @@
       {
         "id": "86fcab9d98eacd0e",
         "type": "tabs",
-        "dimension": 51.67394468704513,
         "children": [
           {
             "id": "f696ddf2a6f18a5c",
@@ -14,33 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practice Boxes/Boxes/Granny/Granny - Hack the Box.md",
+                "file": "Practice Boxes/Boxes/Jerry/Jerry - Hack the Box (in Progress).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Granny - Hack the Box"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9ac0c1cc1570e697",
-        "type": "tabs",
-        "dimension": 48.32605531295487,
-        "children": [
-          {
-            "id": "ecd3e996c9b6a1d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Practice Boxes/Boxes/Granny/Granny - Write up.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Granny - Write up"
+              "title": "Jerry - Hack the Box (in Progress)"
             }
           }
         ]
@@ -212,47 +190,48 @@
   },
   "active": "f696ddf2a6f18a5c",
   "lastOpenFiles": [
-    "Practice Boxes/Boxes/Granny/Granny - Write up.md",
+    "Practice Boxes/Boxes/Jerry/Jerry Notes.md",
+    "Practice Boxes/Boxes/Jerry/Jerry - Hack the Box (in Progress).md",
     "Practice Boxes/Boxes/Granny/Granny - Hack the Box.md",
+    "TTPs and Tools/Tools/Host Discovery and Scanning/Nmap.md",
+    "Practice Boxes/Boxes/Jerry",
+    "TTPs and Tools/Tools/Exploitation Frameworks/Metasploit.md",
+    "Table of Contents.md",
+    "Practice Boxes/Boxes/0 - Write Up Template.md",
+    "Practice Boxes/Manifest.md",
     "Notes/2 - Getting Started/3 - Pentesting Basics/5 - Public Exploits.md",
+    "Notes/2 - Getting Started/3 - Pentesting Basics/7 - Privilege Escalation.md",
+    "Notes/2 - Getting Started/3 - Pentesting Basics/6 - Types of Shells.md",
+    "Notes/2 - Getting Started/3 - Pentesting Basics/2 - Basic Tools.md",
+    "Notes/1 - Penetration Testing Process/2 - Background and Preparation/3 - Penetration Testing Process.md",
+    "Notes/1 - Penetration Testing Process/1 - Using Academy Effectively/0 - Using Academy Effectively.md",
+    "Notes/1 - Penetration Testing Process/2 - Background and Preparation/3 - Penetration Testing Process.md~",
+    "Notes/1 - Penetration Testing Process/2 - Background and Preparation/2 - Laws and Regulations.md",
+    "Notes/1 - Penetration Testing Process/2 - Background and Preparation/1 - Penetration Testing Overview.md",
+    "Notes/1 - Penetration Testing Process/2 - Background and Preparation/0 - Background and Preparation.md",
+    "Notes/1 - Penetration Testing Process/1 - Using Academy Effectively/3 - Academy Exercises and Questions.md",
+    "Notes/1 - Penetration Testing Process/1 - Using Academy Effectively/2 - Academy Modules Layout.md",
+    "Notes/1 - Penetration Testing Process/1 - Using Academy Effectively/1 - Introduction to the Penetration Test Path.md",
+    "Practice Boxes/Boxes/Granny/Granny - Write up.md",
     "Images/whoami.jpg",
     "Images/ActionsOnObjective.jpg",
     "Images/privEscwhomai.jpg",
     "Images/ProcessMigration1.jpg",
     "Images/GrannyInitialAccess.jpg",
     "Images/hostnameAndVersion.jpg",
-    "Practice Boxes/Boxes/0 - Write Up Template.md",
     "Practice Boxes/Boxes/Granny/Granny - Exploit.md",
     "Practice Boxes/Boxes/Granny/Granny - Report.md",
     "TTPs and Tools/Tools/Web Enumeration/Gobuster.md",
-    "Practice Boxes/Manifest.md",
     "Notes/2 - Getting Started/Getting Started.md",
     "Practice Boxes/Boxes/Granny",
     "Practice Boxes/Boxes",
-    "TTPs and Tools/Tools/Exploitation Frameworks/Metasploit.md",
     "TTPs and Tools/Tools/Exploitation Frameworks",
     "TTPs and Tools/Tools/Research/Vulnerability Research/searchSploit.md",
     "TTPs and Tools/Tools/Research/Vulnerability Research",
     "TTPs and Tools/Tools/Research",
-    "Notes/2 - Getting Started/3 - Pentesting Basics/4 - Web Enumeration.md",
-    "TTPs and Tools/Tools/Web Enumeration/Whatweb.md",
-    "TTPs and Tools/Tools/Web Enumeration/EyeWitness.md",
     "TTPs and Tools/Tools/Documentation",
-    "TTPs and Tools/Tools/Web Enumeration/Curl.md",
-    "TTPs and Tools/Techniques/Enumeration/Web Enumeration.md",
-    "TTPs and Tools/Tools/Web Enumeration/Ffuf.md",
     "TTPs and Tools/Tools/Host Discovery and Scanning",
     "TTPs and Tools/Tools/Service Enumeration",
-    "TTPs and Tools/Tools/Web Enumeration",
-    "TTPs and Tools/Techniques/Enumeration/Banner Grabbing.md",
-    "TTPs and Tools/Tools/Service Enumeration/smbclient.md",
-    "TTPs and Tools/Techniques/Enumeration/SMB Enumeration.md",
-    "TTPs and Tools/Techniques/Enumeration/SNMP Enumeration.md",
-    "Notes/2 - Getting Started/3 - Pentesting Basics/3 - Service Scanning.md",
-    "TTPs and Tools/Tools/Brute Force/onesixtyone.md",
-    "TTPs and Tools/Tools/Brute Force",
-    "TTPs and Tools/Techniques/Enumeration/Service Scanning.md",
-    "TTPs and Tools/Tools/Service Enumeration/snmpwalk.md",
     "Images/PenetrationTestingProcess/PT-Process.jpg"
   ]
 }
