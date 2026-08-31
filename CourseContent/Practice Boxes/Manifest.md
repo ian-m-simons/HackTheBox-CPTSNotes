@@ -13,3 +13,4 @@
 | Box Name | Write up  | Report        |
 | -------- | --------- | ------------- |
 | Granny   | Completed | not Completed |
+| Jerry    | Completed | not Completed |
