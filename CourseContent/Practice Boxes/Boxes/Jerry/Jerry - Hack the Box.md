@@ -146,7 +146,7 @@ run
 
 #### Proof of Access 
 ##### Screenshots
-![img1](../../../Images/Jerry/ProofOfAccess.jpg)
+![img1](../../../Images/Jerry/ProofOfAccess.jpg)<br>
 Figure 1: Proof of initial access and system-level privileges. Successful exploitation resulted in command execution on the target host. Session validated by confirming execution context, hostname, and operating system version.
 ##### Session Validation Commands
 ```
@@ -179,7 +179,7 @@ This was another box geared towards building fundamental skills in Metasploit. I
 
 ### Appendix B
 #### Flags Found
-![img](../../../Images/Jerry/Flags.jpg)
+![img](../../../Images/Jerry/Flags.jpg)<br>
 User Flag:
 700\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*d00
 Root Flag:
