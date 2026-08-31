@@ -181,7 +181,7 @@ This was another box geared towards building fundamental skills in Metasploit. I
 #### Flags Found
 ![img](../../../Images/Jerry/Flags.jpg)<br>
 User Flag:
-700\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*d00
+700\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*d00<br>
 Root Flag:
 04a\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*90e
 
