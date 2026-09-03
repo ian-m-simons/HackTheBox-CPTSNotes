@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practice Boxes/Manifest.md",
+                "file": "Notes/0 - Learning Process/1 - Mindset/0 - Mindset.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Manifest"
+              "title": "0 - Mindset"
             }
           }
         ]
@@ -190,6 +190,21 @@
   },
   "active": "f696ddf2a6f18a5c",
   "lastOpenFiles": [
+    "Notes/0 - Learning Process/1 - Mindset/1 - Way of Thinking.md",
+    "Notes/0 - Learning Process/1 - Mindset/2 - Think Outside the Box.md",
+    "Notes/0 - Learning Process/1 - Mindset/0 - Mindset.md",
+    "'Notes/0 - Learning Process/1 - Mindset/2 - Think Outside the Box'.md",
+    "'Notes/0 - Learning Process/1 - Mindset",
+    "'Notes/0 - Learning Process",
+    "'Notes",
+    "'2 - Think Outside the Box'.md",
+    "'2.md",
+    "'Notes/0.md",
+    "'./2.md",
+    "'.",
+    "3 - Occam's Razor.md",
+    "2 Think Outside the Box.md",
+    "Practice Boxes/Manifest.md",
     "Practice Boxes/Boxes/Nibbles/Nibbles - Hack the Box (in progress).md",
     "Practice Boxes/Boxes/Jerry/Jerry - Hack the Box.md",
     "Practice Boxes/Boxes/Granny/Granny - Hack the Box.md",
@@ -216,25 +231,10 @@
     "TTPs and Tools/Tools/System Utilities/wget.md",
     "TTPs and Tools/Tactics/Enumeration.md",
     "TTPs and Tools/Techniques/Privilege Escalation/SSH Keys.md",
-    "TTPs and Tools/Techniques/Privilege Escalation/Exposed Credentials.md",
-    "Notes/2 - Getting Started/3 - Pentesting Basics/0 - Pentesting Basics.md",
-    "TTPs and Tools/Techniques/Privilege Escalation/Scheduled Tasks.md",
-    "TTPs and Tools/Techniques/Privilege Escalation/Vulnerable Software.md",
-    "TTPs and Tools/Techniques/Privilege Escalation/Kernel Exploits.md",
     "TTPs and Tools/Techniques/Privilege Escalation",
-    "TTPs and Tools/Tools/External Cheat Sheets.md",
-    "Notes/2 - Getting Started/3 - Pentesting Basics/5 - Public Exploits.md",
-    "Notes/2 - Getting Started/3 - Pentesting Basics/4 - Web Enumeration.md",
-    "Notes/2 - Getting Started/3 - Pentesting Basics/3 - Service Scanning.md",
-    "TTPs and Tools/Tools/Host Discovery and Scanning/Nmap.md",
-    "Practice Boxes/Boxes/0 - Write Up Template.md",
     "Images/Granny",
     "Images/Granny/ActionsOnObjective.jpg",
     "Practice Boxes/Boxes/Granny",
-    "Practice Boxes/Boxes",
-    "TTPs and Tools/Tools/Exploitation Frameworks",
-    "TTPs and Tools/Tools/Research/Vulnerability Research",
-    "TTPs and Tools/Tools/Research",
-    "TTPs and Tools/Tools/Documentation"
+    "Practice Boxes/Boxes"
   ]
 }
