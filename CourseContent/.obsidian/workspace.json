@@ -191,8 +191,13 @@
   "active": "f696ddf2a6f18a5c",
   "lastOpenFiles": [
     "Notes/0 - Learning Process/1 - Mindset/0 - Mindset.md",
-    "Notes/0 - Learning Process/1 - Mindset/1 - Way of Thinking.md",
+    "CourseContent/Notes/0 - Learning Process/1 - Mindset/2 - Think Outside the Box.md",
+    "CourseContent/Notes/0 - Learning Process/1 - Mindset",
+    "CourseContent/Notes/0 - Learning Process",
+    "CourseContent/Notes",
+    "CourseContent",
     "Notes/0 - Learning Process/1 - Mindset/2 - Think Outside the Box.md",
+    "Notes/0 - Learning Process/1 - Mindset/1 - Way of Thinking.md",
     "'Notes/0 - Learning Process/1 - Mindset/2 - Think Outside the Box'.md",
     "'Notes/0 - Learning Process/1 - Mindset",
     "'Notes/0 - Learning Process",
@@ -230,11 +235,6 @@
     "TTPs and Tools/Tools/Web Enumeration/Curl.md",
     "TTPs and Tools/Tools/System Utilities/wget.md",
     "TTPs and Tools/Tactics/Enumeration.md",
-    "TTPs and Tools/Techniques/Privilege Escalation/SSH Keys.md",
-    "TTPs and Tools/Techniques/Privilege Escalation",
-    "Images/Granny",
-    "Images/Granny/ActionsOnObjective.jpg",
-    "Practice Boxes/Boxes/Granny",
-    "Practice Boxes/Boxes"
+    "Images/Granny/ActionsOnObjective.jpg"
   ]
 }
