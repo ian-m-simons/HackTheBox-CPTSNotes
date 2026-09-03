@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/0 - Learning Process/1 - Mindset/2 - Think Outside the Box.md",
+                "file": "Table of Contents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Think Outside the Box"
+              "title": "Table of Contents"
             }
           }
         ]
@@ -190,14 +190,17 @@
   },
   "active": "f696ddf2a6f18a5c",
   "lastOpenFiles": [
+    "Notes/0 - Learning Process/Learning Process.md",
+    "Table of Contents.md",
+    "Notes/0 - Learning Process/1 - Mindset/3 - Occams Razor.md",
     "Notes/0 - Learning Process/1 - Mindset/0 - Mindset.md",
+    "Notes/0 - Learning Process/1 - Mindset/1 - Way of Thinking.md",
+    "Notes/0 - Learning Process/1 - Mindset/2 - Think Outside the Box.md",
     "CourseContent/Notes/0 - Learning Process/1 - Mindset/2 - Think Outside the Box.md",
     "CourseContent/Notes/0 - Learning Process/1 - Mindset",
     "CourseContent/Notes/0 - Learning Process",
     "CourseContent/Notes",
     "CourseContent",
-    "Notes/0 - Learning Process/1 - Mindset/2 - Think Outside the Box.md",
-    "Notes/0 - Learning Process/1 - Mindset/1 - Way of Thinking.md",
     "'Notes/0 - Learning Process/1 - Mindset/2 - Think Outside the Box'.md",
     "'Notes/0 - Learning Process/1 - Mindset",
     "'Notes/0 - Learning Process",
@@ -232,9 +235,6 @@
     "Notes/2 - Getting Started/3 - Pentesting Basics/8 - Transferring Files.md",
     "TTPs and Tools/Tactics/Privilege Escalation.md",
     "TTPs and Tools/Tools/Remote Access/scp.md",
-    "TTPs and Tools/Tools/Web Enumeration/Curl.md",
-    "TTPs and Tools/Tools/System Utilities/wget.md",
-    "TTPs and Tools/Tactics/Enumeration.md",
     "Images/Granny/ActionsOnObjective.jpg"
   ]
 }
