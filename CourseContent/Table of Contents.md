@@ -8,4 +8,3 @@ Everything here will be broken into modules and sections based on the learning p
  
 # Challenge Boxes
 1. [[Manifest]]
-

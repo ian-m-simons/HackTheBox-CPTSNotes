@@ -112,7 +112,7 @@ run
 
 #### Proof of Access 
 ##### Screenshots
-![img1](../../../Images/Granny/GrannyInitialAccess.jpg)
+![[GrannyInitialAccess.jpg]]
 Figure 1: Proof of initial access. Successful exploitation of CVE-2017-7269 resulted in command execution on the target host. Session validated by confirming execution context, hostname, and operating system version.
 ##### Session Validation Commands
 ```
@@ -169,7 +169,7 @@ run
 
 #### Proof of Privileges Escalation
 
-![img](../../../Images/Granny/privEscwhomai.jpg)
+![[privEscwhomai.jpg]]
 Figure 2: Proof of Privilege Escalation. Successful exploitation of CVE-2014-4113 resulted in execution within the NT Authority\System security context. Privileges validated by confirming execution context with the whoami command.
 
 ---
@@ -190,7 +190,7 @@ The whole point of completing this Box was to build the fundamentals of using Me
 
 ### Appendix B
 #### Flags found
-![img](../../../Images/Granny/ActionsOnObjective.jpg)
+![[ActionsOnObjective.jpg]]
 User Flag:
 700c\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*7d1
 

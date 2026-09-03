@@ -1,6 +1,6 @@
 Get or Send data to a server using URLs
 
-| Flags            | Use               |
-| ---------------- | ----------------- |
-| -I (uppercase i) | grab headers only |
-|                  |                   |
+| Flags | Use                 |
+| ----- | ------------------- |
+| `-I`  | grab headers only   |
+| `-o`  | name of output file |

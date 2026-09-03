@@ -1,7 +1,7 @@
 The penetration testing process is defined by successive steps and events performed by the penetration tester to find a path to the predefined objective. Processes describe sequences that lead to a desired result. they do not follow a fixed recipe
 ### Penetration Testing Stages
 stages allow the individual steps and approaches to be flexible, varied, and to adapt to the results and information we receive. 
-![Stages](../../../Images/PenetrationTestingProcess/PT-PRocess.jpg)
+![Stages](Images/PenetrationTestingProcess/PT-PRocess.jpg)
 ##### Pre-engagement
 educate the client and adjusting the contract. Define the scope and document it. At a minimum complete:
 - Non-Disclosure Agreement (NDA)
