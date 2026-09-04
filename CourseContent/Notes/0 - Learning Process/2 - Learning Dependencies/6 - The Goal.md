@@ -1,2 +1,0 @@
-A goal is a desired endpoint of a process. With this definition we have to be able to define the endpoint so we can determine if a goal is achieved or not.
-For just about any goal, dozens of different formulas and models have been created to achieve them. in the "best" possible way. Ultimately, all goals need to be specific and challenging. Remember there are multiple ways to achieve the same goal, don't dial in so deeply to a single way of achieving a goal that you miss another path which might work better for you.

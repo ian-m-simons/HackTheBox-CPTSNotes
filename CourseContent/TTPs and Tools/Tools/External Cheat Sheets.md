@@ -1,5 +1,0 @@
-- [Hacktricks](https://book.hacktricks.xyz/) library for pentesting, research and techniques
-- [Payload All the Things](https://swisskyrepo.github.io/InternalAllTheThings/). quick library for AD, windows, Azure, and internal pentest payloads, techniques and cheat sheets (good for quick shells)
-- [LOLOLFarm](lolol.farm) Master aggregator for living off the land tools
-- [GTFOBins](gtfobins.org) Aggregator for linux lolbins
-- [LOLBas](https://lolbas-project.github.io/#) Aggregator for windows lolbins

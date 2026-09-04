@@ -1,1 +1,0 @@
-not critical this is just about how to navigate the hack the box website, check it out if you need help finding something
