@@ -1,0 +1,1 @@
+This is the way we did it in our [write-up](../../../Practice%20Boxes/Boxes/Nibbles/Nibbles%20-%20Hack%20the%20Box.md) see said write up for review if needed.

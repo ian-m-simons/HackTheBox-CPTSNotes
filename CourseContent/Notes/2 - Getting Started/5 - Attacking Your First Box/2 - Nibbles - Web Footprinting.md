@@ -1,0 +1,8 @@
+Lets start by using [Whatweb](../../../TTPs%20and%20Tools/Tools/Web%20Enumeration/Whatweb.md) to try and identify the web application in use. This does nothing for us. If we browse to the web page we find a simple "Hello world!" page. However if we check the page source we find an interesting comment 
+```
+<!-- /nibbleblog/ directory, Nothing interesting here! -->
+```
+so obviously we're gonna poke at that a bit. if we use [Whatweb](../../../TTPs%20and%20Tools/Tools/Web%20Enumeration/Whatweb.md) we can get a better picture of what's going on such as the use of HTML5, jQuery, and PHP. Most notably Nibbleblog which is a free blogging engine using PHP
+### Directory Enumeration
+
+lets start with a [Gobuster](../../../TTPs%20and%20Tools/Tools/Web%20Enumeration/Gobuster.md) scan running `gobuster dir -u http:<TARGET_IP>/nibbleblog/ --wordlist /usr/share/seclists/Discovery/Web-Content/common.txt` some notable results here include admin.php and a README page. The README page shows us we're using nibbleBlog version 4.0.3. A quick search shows there is an exploit for that version if we can successfully log in at the admin portal hosted at /admin.php as we explore other pages [Gobuster](../../../TTPs%20and%20Tools/Tools/Web%20Enumeration/Gobuster.md) identified, we are able to find the username admin. No password is identified, and a password lockout threshold of one is also identified. This means we can't Brute Force. We have seen the word nibbles throughout the /themes page, lets try the password of nibbles. We will then find success. 

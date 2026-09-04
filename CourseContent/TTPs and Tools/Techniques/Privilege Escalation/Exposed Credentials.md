@@ -1,0 +1,1 @@
+PILLAGE AND PLUNDER! this is where we go through everything and find everything that even resembles a password, see if anything is worth using. Remember `Password Reuse` will be a problem as long as humans exist

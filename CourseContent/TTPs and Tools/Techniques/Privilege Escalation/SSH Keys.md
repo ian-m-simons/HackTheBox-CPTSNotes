@@ -1,0 +1,1 @@
+now that you're in, can you find and steal a private key? sweet can you make your own? even better, remember when you steal a private key make sure the permissions for it on your local machine are correct, otherwise it won't work.
