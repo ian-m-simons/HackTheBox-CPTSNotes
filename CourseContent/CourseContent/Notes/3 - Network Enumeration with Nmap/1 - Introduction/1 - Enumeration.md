@@ -1,0 +1,5 @@
+Enumeration is the process of identifying all the ways we could attack a target. Tools help, but if you don't know how to use the information they get you, it is pointless. The more information we gather from enumeration, the easier it will be for us to find attack vectors.
+Generally we can get access to a target come down to two points:
+- Functions and/or resources that allow us to interact with the target and/or provide additional information.
+- Information that provides us with even more import information to access our target.
+This is what we're looking for during enumeration. Usually when performing enumeration, the problem isn't not having the right tools, but rather how you interact with the identified service. while many scanning tools simplify and accelerate the enumeration process, manual enumeration is a critical component. 

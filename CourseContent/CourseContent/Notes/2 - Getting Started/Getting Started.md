@@ -41,4 +41,4 @@ The module ends with a practical hands on skills assessment. As you go through t
 [[6 - Problem Solving/2 - Getting Help]]
 ##### [[7 - What's Next/0 - What's Next|What's Next]]
 [[7 - What's Next/1 - Next Steps]]
-[[7 - What's Next/2 - Knowledge Check (in progress write-up)]]
+[[7 - What's Next/2 - Knowledge Check]]

@@ -204,7 +204,7 @@ Figure 2: Proof of Privilege Escalation. Successful exploitation resulted in exe
 ---
 ## Lessons Learned 
 This box really pushed me. While I did use **Gobuster** for some web directory enumeration, I still did plenty of manual Web Enumeration. This really helped build my Web Enumeration skills, as well as improve my confidence as I am still quite new to offensive security. The Privilege Escalation section also pushed me. However it was really cool to see examples covered in Academy used in the wild some key takeaways include:
-- Findings, no matter how small, can lead lead to significant compromoze
+- Findings, no matter how small, can lead lead to significant compromise
 - Make zero assumptions, nibble blog at first just seemed like the name of the blog, and I absent-mindedly assumed it was for longer than I would like to admit. 
 - Slow down while performing Enumeration, don't rush or you may miss obvious opportunities
 ---
