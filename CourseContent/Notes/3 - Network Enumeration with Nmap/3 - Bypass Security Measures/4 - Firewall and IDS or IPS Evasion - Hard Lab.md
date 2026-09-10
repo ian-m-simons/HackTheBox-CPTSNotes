@@ -1,0 +1,1 @@
+ok so this one was freaking annoying because it didn't work in pwnbox you had to connect via vpn (thanks htb forums for coming in clutch on that little number) big goal here was to get you to change your source port to 53 and then banner grab with ncat again changing source port to 53 and again it asked for the version which was a flag  : P

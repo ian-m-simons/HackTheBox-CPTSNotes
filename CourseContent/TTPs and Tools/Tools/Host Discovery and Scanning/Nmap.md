@@ -26,34 +26,39 @@ n00blyfe@htb$ nmap 10.129.42.10 10.129.42.11 10.129.42.12
 n00blyfe@htb$ nmap 10.129.42.10-12
 ```
 
-| Flag                             | Purpose                                                                |
-| -------------------------------- | ---------------------------------------------------------------------- |
-| `-sC`                            | Scripts - Used to run nmap scripts to obtain more detailed information |
-| `-sV`                            | Version - Perform a version scan                                       |
-| `-p`                             | Ports - specify ports to scan                                          |
-| `-p-`                            | ALL Ports - specifies that all ports should be scanned                 |
-| `-A`                             | Aggressive                                                             |
-| `-oA`                            | include xml , greppable, and text output                               |
-| `-oN`                            | normal output                                                          |
-| `-oG`                            | grepable output                                                        |
-| `-oX`                            | XML output                                                             |
-| `-iL`                            | input list ie list of ip's to scan (\n delimited .lst file)            |
-| `-PE`                            | IMCP Echo Requests                                                     |
-| `--packet-trace`                 | shows all packets sent and received                                    |
-| `--reason`                       | displays the reason for specific results                               |
-| `-F`                             | fast (top 100 ports)                                                   |
-| `-Pn`                            | Disable imcp echo requests                                             |
-| `-n`                             | Disable DNS resolution                                                 |
-| `--disable-arp-ping`             | disable arp ping (ie whois)                                            |
-| `--max-retries`                  | how many times to try a port before declaring it filtered etc          |
-| `--stats-every=\<x \[s \| m\]\>` | display status every x seconds/minutes                                 |
-| `-v ` `-vv`                      | verbosity level                                                        |
-| `-O`                             | OS detection                                                           |
-| `--traceroute`                   | traceroute taken                                                       |
-| `--initial-rtt-timeout`          | sets the specified time valua as initial RTT timeout (include ms)      |
-| `--max-rtt-timeout`              | sets the specified time value as maximum RTT timeout (include ms)      |
-| `--min-rate`                     | how many packets to send at once                                       |
-| `-T<number>`                     | speed 0-5 0=slow 5=fast                                                |
+| Flag                             | Purpose                                                                                   |
+| -------------------------------- | ----------------------------------------------------------------------------------------- |
+| `-sC`                            | Scripts - Used to run nmap scripts to obtain more detailed information                    |
+| `-sV`                            | Version - Perform a version scan                                                          |
+| `-p`                             | Ports - specify ports to scan                                                             |
+| `-p-`                            | ALL Ports - specifies that all ports should be scanned                                    |
+| `-A`                             | Aggressive                                                                                |
+| `-oA`                            | include xml , greppable, and text output                                                  |
+| `-oN`                            | normal output                                                                             |
+| `-oG`                            | grepable output                                                                           |
+| `-oX`                            | XML output                                                                                |
+| `-iL`                            | input list ie list of ip's to scan (\n delimited .lst file)                               |
+| `-PE`                            | IMCP Echo Requests                                                                        |
+| `--packet-trace`                 | shows all packets sent and received                                                       |
+| `--reason`                       | displays the reason for specific results                                                  |
+| `-F`                             | fast (top 100 ports)                                                                      |
+| `-Pn`                            | Disable imcp echo requests                                                                |
+| `-n`                             | Disable DNS resolution                                                                    |
+| `--disable-arp-ping`             | disable arp ping (ie whois)                                                               |
+| `--max-retries`                  | how many times to try a port before declaring it filtered etc                             |
+| `--stats-every=\<x \[s \| m\]\>` | display status every x seconds/minutes                                                    |
+| `-v ` `-vv`                      | verbosity level                                                                           |
+| `-O`                             | OS detection                                                                              |
+| `--traceroute`                   | traceroute taken                                                                          |
+| `--initial-rtt-timeout`          | sets the specified time valua as initial RTT timeout (include ms)                         |
+| `--max-rtt-timeout`              | sets the specified time value as maximum RTT timeout (include ms)                         |
+| `--min-rate`                     | how many packets to send at once                                                          |
+| `-T<number>`                     | speed 0-5 0=slow 5=fast                                                                   |
+| `-D`                             | Decoy, insert random IP addresses into the IP headers                                     |
+| `RND:<num>`                      | used with `-D` defines how many random IP addresses should be used                        |
+| `-S <IP Address>`                | spoof source address (you need to control the address being spoofed to see the responses) |
+| `--dns-server <server IP>`       | specify DNS server to use                                                                 |
+| `--source-port`                  | specify the source port to use                                                            |
 
 ### Nmap Scan Types
 
