@@ -1,10 +1,10 @@
 Used for enumerating and interacting with SMB shares.
 
-| Flag | Purpose                   |
-| ---- | ------------------------- |
-| -L   | List all available shares |
-| -N   | suppress password prompt  |
-| -U   | username                  |
+| Flag | Purpose                                         |
+| ---- | ----------------------------------------------- |
+| -L   | List all available shares                       |
+| -N   | suppress password prompt/null session/anonymous |
+| -U   | username                                        |
 example usage 
 ```
 n00blfye@htb$ smbclient \\10.129.42.253\users
