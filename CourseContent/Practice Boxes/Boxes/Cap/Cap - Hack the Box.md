@@ -23,11 +23,12 @@ Note: Flags documented in Appendix B
 ---
 ### Vulnerability Summary
 
-| Vulnerability | Vulnerability Classification | CVSS Score | MITRE ATT&CK Technique | ATT&CK Tactic|
-|--- | --- | --- | --- | --- |
-|Insecure Direct Object Rerefence (IDOR)/Broken Access Control | CWE - 639 Authorization Bypass Through User-Controlled Key <br>CWE - 284 - Improper Access control <br>OWASP A01:2025 - Broken Access Control | N/A | T1190 - Exploit Public-Facing Application | Initial Access|
-|Exposure of Cleartext Credentials via Packet Capture | CWE - 319 - Cleartext Transmission of Sensitive Information | N/A | T1552 - Unsecured Credentials | Credential Access | 
-|Python 3.8 cap_setuid Capability Misconfiguration | CWE - 250 - Execution with Unnecessary Privileges | N/A | T1548 - Abuse Elevation Control Mechanism | Privilege Escalation|
+| Vulnerability                                                 | Vulnerability Classification                                                                                                                  | CVSS Score | MITRE ATT&CK Technique                    | ATT&CK Tactic        |     |
+| ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------- | -------------------- | --- |
+| Insecure Direct Object Rerefence (IDOR)/Broken Access Control | CWE - 639 Authorization Bypass Through User-Controlled Key <br>CWE - 284 - Improper Access control <br>OWASP A01:2025 - Broken Access Control | N/A        | T1190 - Exploit Public-Facing Application | Initial Access       |     |
+| Exposure of Cleartext Credentials via Packet Capture          | CWE - 319 - Cleartext Transmission of Sensitive Information                                                                                   | N/A        | T1552 - Unsecured Credentials             | Credential Access    |     |
+| Python 3.8 cap_setuid Capability Misconfiguration             | CWE - 250 - Execution with Unnecessary Privileges                                                                                             | N/A        | T1548 - Abuse Elevation Control Mechanism | Privilege Escalation |     |
+
 ---
 ### Attack Path Summary
 1. Performed network reconnaissance with Nmap and identified OpenSSH 8.2p1, vsftpd 3.0.3, and Gunicorn services 

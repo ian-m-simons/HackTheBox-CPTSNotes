@@ -44,3 +44,7 @@ some settings can introduce vulnerabilities, see the table below
 | `magic script = script.sh`  | which script should be executed when the script gets closed?        |
 | `magic output = script.out` | Where the output of the magic script needs to be stored?            |
 
+typically these dangerous settings are enabled during testing or in a small protected subnet, then forgotten about keeping settings too permissive in the long run. 
+whenever you make changes to samba you have to restart the service.
+### Footprinting the Service
+Nmap does have some scripts that will attempt to enumerate SMB, but they tend to be slow, it is generally faster and you get more information if you enumerate them yourself. another valuable tool to use here is rpcclient. We can use rpcclient to enumerate users computers etc if we are given anonymous access. This can quickly become a problem if permissions aren't perfectly configured. It can allow us to enumerate users and then attack said users etc. There are lots of tools you can use for SMB footprinting, but we should definitely be using more than one or two because it can happen that different tools will give you different information
